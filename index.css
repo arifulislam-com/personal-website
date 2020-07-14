@@ -1,0 +1,74 @@
+body{
+    width: 100%;
+	padding: 0px;
+	display: block;
+}
+.header {
+	margin: 50px;
+	margin-bottom: 100px;
+}
+.half-width {
+	width: 40%;
+	float: left;
+	margin-right: 68px;
+	margin-left: 55px;
+}
+.detail {
+	margin-top: 235px;
+}
+.bottom {
+	margin-bottom: 260px;
+}
+.half-width span {
+	color: #e25e43;
+	font-size: 39px;
+}
+.half-width img {
+	width: 135%;
+}
+.btn {
+	width: 115px;
+	height: 30px;
+	background-color: red;
+	color: white;
+	border-radius: 6px;
+	font-size: 15px;
+}
+.work-img {
+	width: 90%;
+	float: left;
+	margin: 50px;
+	text-align: center;
+}
+.work-img img{
+	width: 25%;
+	float: left;
+	margin-left: 50px;
+	padding: 20px;
+}
+.client-site{
+	text-align: center;
+}
+.clintSay {
+	margin: 80px;
+	font-size: 25px;
+}
+.founder {
+	margin: 70px;
+}
+.contacts {
+	width: 295px;
+	text-align: center;
+	background-color: #c34747;
+	border-radius: 5px;
+	color: white;
+	padding: 1px 63px;
+	margin-left: 398px;
+}
+.client-site h1{
+	padding-top: 120px;
+}
+footer{
+	text-align: center;
+	color: rgb(83, 82, 80);
+}
